@@ -1,0 +1,114 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123456",
+      "name": "Dion",
+      "description": "Full zip cardigan",
+      "price": 170,
+      "category": 1,
+      "rating": 4.9,
+      "image": "dion.jpg",
+      "image_url": "https://i.ibb.co/Jr5MNJ1/dion.jpg"
+    }
+  },
+    {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123457",
+      "name": "Hoaw",
+      "description": "Slim hoodie",
+      "price": 90,
+      "category": 1,
+      "rating": 4.2,
+      "image": "hoaw.jpg",
+      "image_url": "https://i.ibb.co/c8whzL4/hoaw.jpg"
+    }
+  },
+    {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123458",
+      "name": "Rafael",
+      "description": "Hoodie puff jacket",
+      "price": 160,
+      "category": 1,
+      "rating": 4.9,
+      "image": "rafael.jpg",
+      "image_url": "https://i.ibb.co/vPQ0Tx1/rafael.jpg"
+    }
+  },
+    {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123459",
+      "name": "Simu",
+      "description": "Feather Shirt",
+      "price": 90,
+      "category": 1,
+      "rating": 5,
+      "image": "simu.jpg",
+      "image_url": "https://i.ibb.co/QP1wKNN/simu.jpg"
+    }
+  },
+    {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123460",
+      "name": "Sienne",
+      "description": "Long knitted stripes sweater",
+      "price": 40,
+      "category": 2,
+      "rating": 4.9,
+      "image": "sienne.jpg",
+      "image_url": "https://i.ibb.co/JCz8qRv/sienne.jpg"
+    }
+  },
+    {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123461",
+      "name": "Tamu",
+      "description": "Oversized coat with inner vest in feather",
+      "price": 300,
+      "category": 1,
+      "rating": 4.9,
+      "image": "tamu.jpg",
+      "image_url": "https://i.ibb.co/bKNmtbX/tamu.jpg"
+    }
+  },
+    {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123462",
+      "name": "Vant",
+      "description": "Puffy hoodie jacket",
+      "price": 250,
+      "category": 1,
+      "rating": 4.2,
+      "image": "vant.jpg",
+      "image_url": "https://i.ibb.co/ZVgmj1V/vant.jpg"
+    }
+  },
+    {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "IT123463",
+      "name": "Abramo",
+      "description": "Coat with a removable vest size",
+      "price": 190,
+      "category": 1,
+      "rating": 4.5,
+      "image": "abramo.jpg",
+      "image_url": "https://i.ibb.co/M60D6hj/abramo.jpg"
+    }
+  }
+]
