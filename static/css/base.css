@@ -97,7 +97,9 @@ a.category-badge > span.badge:hover {
     color: red;
 }
 
-.btt-link {
+.btt-link,
+.update-link,
+.remove-item {
     cursor: pointer;
 }
 /* -------------------------------- Media Queries */
