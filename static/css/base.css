@@ -79,7 +79,7 @@ body {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: url('/media/homepage2.jpg') no-repeat center center fixed;
+	background: white;
 	z-index: -1;
 }
 
